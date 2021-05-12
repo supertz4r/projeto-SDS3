@@ -1,6 +1,8 @@
 # DS Vendas ⚡
 
-Projeto desenvolvido durante a Semana Spring React - DevSuperior    
+Projeto desenvolvido durante a Semana Spring React - DevSuperior
+
+Aplicação de dashboard de vendas, com ReactJS e Spring Boot! 
 
 `front-web link:`
 
